@@ -73,16 +73,16 @@ Welcome to the **Data Structures and Algorithms (DSA)** project! This repository
 
 ## 🗂️ Project Structure
 ```plaintext
-dsa-animated-examples/
+DSA/
 │
 ├── BigO/                # Big O notation examples and visualizations
-├── DataStructures/      # Data structures implementation and animations
+├── Data_Structures/      # Data structures implementation and animations
 │   ├── Arrays/
 │   ├── Vectors/
-│   ├── LinkedLists/
-│   ├── DoublyLinkedLists/
-│   ├── StacksQueues/
-│   ├── BinaryTrees/
+│   ├── Linked_Lists/
+│   ├── Doubly_Linked_Lists/
+│   ├── Stacks_Queues/
+│   ├── Binary_Trees/
 │   ├── HashTables/
 │   └── Graphs/
 ├── Algorithms/          # Sorting and searching algorithms
