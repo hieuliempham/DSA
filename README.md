@@ -1,4 +1,4 @@
-# Data Structures and Algorithms (DSA) - Animated Examples for Faster Learning
+# Data Structures and Algorithms (DSA)
 
 Welcome to the **Data Structures and Algorithms (DSA)** project! This repository is designed to help programmers and students understand and master key DSA concepts through **animated examples** and **step-by-step explanations**. Whether you're preparing for coding interviews, taking a DSA course, or just curious about how things work under the hood, this project is for you.
 
